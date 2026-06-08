@@ -1,0 +1,672 @@
+{
+  "Almaty": {
+    "lat": 43.24,
+    "lon": 76.915,
+    "link": "https://en.wikivoyage.org/wiki/Almaty"
+  },
+  "Amsterdam": {
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "link": "https://en.wikivoyage.org/wiki/Amsterdam"
+  },
+  "Andorra la Vella": {
+    "lat": 42.4979185,
+    "lon": 1.5032264,
+    "link": "https://en.wikivoyage.org/wiki/Andorra_la_Vella"
+  },
+  "Antwerp": {
+    "lat": 51.2211097,
+    "lon": 4.3997081,
+    "link": "https://en.wikivoyage.org/wiki/Antwerp"
+  },
+  "Astana": {
+    "lat": 51.133333333,
+    "lon": 71.433333333,
+    "link": "https://en.wikivoyage.org/wiki/Astana"
+  },
+  "Athens": {
+    "lat": 37.9755648,
+    "lon": 23.7348324,
+    "link": "https://en.wikivoyage.org/wiki/Athens"
+  },
+  "Barcelona": {
+    "lat": 41.3825802,
+    "lon": 2.177073,
+    "link": "https://en.wikivoyage.org/wiki/Barcelona"
+  },
+  "Barnaul": {
+    "lat": 53.3475493,
+    "lon": 83.7788448,
+    "link": "https://en.wikivoyage.org/wiki/Barnaul"
+  },
+  "Belgrade": {
+    "lat": 44.8153318,
+    "lon": 20.4456588,
+    "link": "https://en.wikivoyage.org/wiki/Belgrade"
+  },
+  "Berlin": {
+    "lat": 52.5173885,
+    "lon": 13.3951309,
+    "link": "https://en.wikivoyage.org/wiki/Berlin"
+  },
+  "Berne": {
+    "lat": 46.9484742,
+    "lon": 7.4521749,
+    "link": "https://en.wikivoyage.org/wiki/Berne"
+  },
+  "Birmingham": {
+    "lat": 52.4948994,
+    "lon": -1.8518439,
+    "link": "https://en.wikivoyage.org/wiki/Birmingham"
+  },
+  "Bratislava": {
+    "lat": 48.1516988,
+    "lon": 17.1093063,
+    "link": "https://en.wikivoyage.org/wiki/Bratislava"
+  },
+  "Bremen": {
+    "lat": 53.0758196,
+    "lon": 8.8071646,
+    "link": "https://en.wikivoyage.org/wiki/Bremen"
+  },
+  "Brussels": {
+    "lat": 50.8467372,
+    "lon": 4.352493,
+    "link": "https://en.wikivoyage.org/wiki/Brussels"
+  },
+  "Bucharest": {
+    "lat": 44.4361414,
+    "lon": 26.102684,
+    "link": "https://en.wikivoyage.org/wiki/Bucharest"
+  },
+  "Budapest": {
+    "lat": 47.4813896,
+    "lon": 19.1457723,
+    "link": "https://en.wikivoyage.org/wiki/Budapest"
+  },
+  "Cetinje": {
+    "lat": 42.389633,
+    "lon": 18.9246085,
+    "link": "https://en.wikivoyage.org/wiki/Cetinje"
+  },
+  "Chelyabinsk": {
+    "lat": 55.1598408,
+    "lon": 61.4025547,
+    "link": "https://en.wikivoyage.org/wiki/Chelyabinsk"
+  },
+  "Chișinău": {
+    "lat": 47.0245117,
+    "lon": 28.8322923,
+    "link": "https://en.wikivoyage.org/wiki/Chișinău"
+  },
+  "Cologne": {
+    "lat": 50.938361,
+    "lon": 6.959974,
+    "link": "https://en.wikivoyage.org/wiki/Cologne"
+  },
+  "Copenhagen": {
+    "lat": 55.6867243,
+    "lon": 12.5700724,
+    "link": "https://en.wikivoyage.org/wiki/Copenhagen"
+  },
+  "Dnipro": {
+    "lat": 48.4675,
+    "lon": 35.04,
+    "link": "https://en.wikivoyage.org/wiki/Dnipro"
+  },
+  "Donetsk": {
+    "lat": 47.9212914,
+    "lon": 37.7809825,
+    "link": "https://en.wikivoyage.org/wiki/Donetsk"
+  },
+  "Dortmund": {
+    "lat": 51.5142273,
+    "lon": 7.4652789,
+    "link": "https://en.wikivoyage.org/wiki/Dortmund"
+  },
+  "Douglas": {
+    "lat": 54.149774,
+    "lon": -4.4779021,
+    "link": "https://en.wikivoyage.org/wiki/Douglas (Isle of Man)"
+  },
+  "Dresden": {
+    "lat": 51.0493286,
+    "lon": 13.7381437,
+    "link": "https://en.wikivoyage.org/wiki/Dresden"
+  },
+  "Dublin": {
+    "lat": 53.3493795,
+    "lon": -6.2605593,
+    "link": "https://en.wikivoyage.org/wiki/Dublin"
+  },
+  "Duisburg": {
+    "lat": 51.434999,
+    "lon": 6.759562,
+    "link": "https://en.wikivoyage.org/wiki/Duisburg"
+  },
+  "Düsseldorf": {
+    "lat": 51.2254018,
+    "lon": 6.7763137,
+    "link": "https://en.wikivoyage.org/wiki/Düsseldorf"
+  },
+  "Essen": {
+    "lat": 51.4582235,
+    "lon": 7.0158171,
+    "link": "https://en.wikivoyage.org/wiki/Essen"
+  },
+  "Frankfurt": {
+    "lat": 50.1106444,
+    "lon": 8.6820917,
+    "link": "https://en.wikivoyage.org/wiki/Frankfurt"
+  },
+  "Genoa": {
+    "lat": 44.40726,
+    "lon": 8.9338624,
+    "link": "https://en.wikivoyage.org/wiki/Genoa"
+  },
+  "Glasgow": {
+    "lat": 55.861155,
+    "lon": -4.2501687,
+    "link": "https://en.wikivoyage.org/wiki/Glasgow"
+  },
+  "Gomel": {
+    "lat": 52.4238936,
+    "lon": 31.0131698,
+    "link": "https://en.wikivoyage.org/wiki/Gomel"
+  },
+  "Gothenburg": {
+    "lat": 57.7072326,
+    "lon": 11.9670171,
+    "link": "https://en.wikivoyage.org/wiki/Gothenburg"
+  },
+  "Hamburg": {
+    "lat": 53.5501721,
+    "lon": 10.0013165,
+    "link": "https://en.wikivoyage.org/wiki/Hamburg"
+  },
+  "Hanover": {
+    "lat": 52.3744779,
+    "lon": 9.7385532,
+    "link": "https://en.wikivoyage.org/wiki/Hanover"
+  },
+  "Helsinki": {
+    "lat": 60.1666204,
+    "lon": 24.9435408,
+    "link": "https://en.wikivoyage.org/wiki/Helsinki"
+  },
+  "Irkutsk": {
+    "lat": 52.2891225,
+    "lon": 104.279829,
+    "link": "https://en.wikivoyage.org/wiki/Irkutsk"
+  },
+  "Izhevsk": {
+    "lat": 56.8529729,
+    "lon": 53.2103071,
+    "link": "https://en.wikivoyage.org/wiki/Izhevsk"
+  },
+  "Karaganda": {
+    "lat": 49.8,
+    "lon": 73.116666666,
+    "link": "https://en.wikivoyage.org/wiki/Karaganda"
+  },
+  "Katowice": {
+    "lat": 50.2598987,
+    "lon": 19.0215852,
+    "link": "https://en.wikivoyage.org/wiki/Katowice"
+  },
+  "Kazan": {
+    "lat": 55.7946485,
+    "lon": 49.1115022,
+    "link": "https://en.wikivoyage.org/wiki/Kazan"
+  },
+  "Kemerovo": {
+    "lat": 55.3550907,
+    "lon": 86.0871213,
+    "link": "https://en.wikivoyage.org/wiki/Kemerovo"
+  },
+  "Khabarovsk": {
+    "lat": 51.6312684,
+    "lon": 136.121524,
+    "link": "https://en.wikivoyage.org/wiki/Khabarovsk"
+  },
+  "Kharkiv": {
+    "lat": 49.9923181,
+    "lon": 36.2310146,
+    "link": "https://en.wikivoyage.org/wiki/Kharkiv"
+  },
+  "Kraków": {
+    "lat": 50.0469432,
+    "lon": 19.9971534,
+    "link": "https://en.wikivoyage.org/wiki/Kraków"
+  },
+  "Krasnodar": {
+    "lat": 45.0351532,
+    "lon": 38.9772396,
+    "link": "https://en.wikivoyage.org/wiki/Krasnodar"
+  },
+  "Krasnoyarsk": {
+    "lat": 56.0091173,
+    "lon": 92.872586,
+    "link": "https://en.wikivoyage.org/wiki/Krasnoyarsk"
+  },
+  "Kryvyi Rih": {
+    "lat": 47.9102734,
+    "lon": 33.3917703,
+    "link": "https://en.wikivoyage.org/wiki/Kryvyi_Rih"
+  },
+  "Kyiv": {
+    "lat": 50.4500336,
+    "lon": 30.5241361,
+    "link": "https://en.wikivoyage.org/wiki/Kyiv"
+  },
+  "Leeds": {
+    "lat": 53.7974185,
+    "lon": -1.5437941,
+    "link": "https://en.wikivoyage.org/wiki/Leeds"
+  },
+  "Leipzig": {
+    "lat": 51.3406321,
+    "lon": 12.3747329,
+    "link": "https://en.wikivoyage.org/wiki/Leipzig"
+  },
+  "Lisbon": {
+    "lat": 38.7077507,
+    "lon": -9.1365919,
+    "link": "https://en.wikivoyage.org/wiki/Lisbon"
+  },
+  "Liverpool": {
+    "lat": 53.3933411,
+    "lon": -2.9166389,
+    "link": "https://en.wikivoyage.org/wiki/Liverpool"
+  },
+  "Ljubljana": {
+    "lat": 46.0500268,
+    "lon": 14.5069289,
+    "link": "https://en.wikivoyage.org/wiki/Ljubljana"
+  },
+  "London": {
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "link": "https://en.wikivoyage.org/wiki/London"
+  },
+  "Luxembourg": {
+    "lat": 49.8158683,
+    "lon": 6.1296751,
+    "link": "https://en.wikivoyage.org/wiki/Luxembourg"
+  },
+  "Lviv": {
+    "lat": 49.841952,
+    "lon": 24.0315921,
+    "link": "https://en.wikivoyage.org/wiki/Lviv"
+  },
+  "Lyon": {
+    "lat": 45.7578137,
+    "lon": 4.8320114,
+    "link": "https://en.wikivoyage.org/wiki/Lyon"
+  },
+  "Madrid": {
+    "lat": 40.416782,
+    "lon": -3.703507,
+    "link": "https://en.wikivoyage.org/wiki/Madrid"
+  },
+  "Makhachkala": {
+    "lat": 42.9830241,
+    "lon": 47.5048717,
+    "link": "https://en.wikivoyage.org/wiki/Makhachkala"
+  },
+  "Manchester": {
+    "lat": 53.4424618,
+    "lon": -2.2324547,
+    "link": "https://en.wikivoyage.org/wiki/Manchester"
+  },
+  "Marseille": {
+    "lat": 43.2963986,
+    "lon": 5.3777888,
+    "link": "https://en.wikivoyage.org/wiki/Marseille"
+  },
+  "Milan": {
+    "lat": 45.4641943,
+    "lon": 9.1896346,
+    "link": "https://en.wikivoyage.org/wiki/Milan"
+  },
+  "Minsk": {
+    "lat": 53.9024716,
+    "lon": 27.5618225,
+    "link": "https://en.wikivoyage.org/wiki/Minsk"
+  },
+  "Moscow": {
+    "lat": 55.625578,
+    "lon": 37.6063916,
+    "link": "https://en.wikivoyage.org/wiki/Moscow"
+  },
+  "Munich": {
+    "lat": 48.1371079,
+    "lon": 11.5753822,
+    "link": "https://en.wikivoyage.org/wiki/Munich"
+  },
+  "Málaga": {
+    "lat": 36.7647913,
+    "lon": -4.4422005,
+    "link": "https://en.wikivoyage.org/wiki/Málaga"
+  },
+  "Naberezhnye Chelny": {
+    "lat": 55.7419774,
+    "lon": 52.399207,
+    "link": "https://en.wikivoyage.org/wiki/Naberezhnye_Chelny"
+  },
+  "Naples": {
+    "lat": 40.8358846,
+    "lon": 14.2487679,
+    "link": "https://en.wikivoyage.org/wiki/Naples"
+  },
+  "Nicosia": {
+    "lat": 35.1746503,
+    "lon": 33.3638783,
+    "link": "https://en.wikivoyage.org/wiki/Nicosia"
+  },
+  "Nizhny Novgorod": {
+    "lat": 56.3264816,
+    "lon": 44.0051395,
+    "link": "https://en.wikivoyage.org/wiki/Nizhny_Novgorod"
+  },
+  "North Nicosia": {
+    "lat": 35.2116524,
+    "lon": 33.3311878,
+    "link": "https://en.wikivoyage.org/wiki/Nicosia (North)"
+  },
+  "Novosibirsk": {
+    "lat": 55.0288307,
+    "lon": 82.9226887,
+    "link": "https://en.wikivoyage.org/wiki/Novosibirsk"
+  },
+  "Nuremberg": {
+    "lat": 49.453872,
+    "lon": 11.077298,
+    "link": "https://en.wikivoyage.org/wiki/Nuremberg"
+  },
+  "Odesa": {
+    "lat": 46.4843023,
+    "lon": 30.7322878,
+    "link": "https://en.wikivoyage.org/wiki/Odesa"
+  },
+  "Omsk": {
+    "lat": 54.991375,
+    "lon": 73.371529,
+    "link": "https://en.wikivoyage.org/wiki/Omsk"
+  },
+  "Orenburg": {
+    "lat": 51.7671248,
+    "lon": 55.0978517,
+    "link": "https://en.wikivoyage.org/wiki/Orenburg"
+  },
+  "Oslo": {
+    "lat": 59.9133301,
+    "lon": 10.7389701,
+    "link": "https://en.wikivoyage.org/wiki/Oslo"
+  },
+  "Palermo": {
+    "lat": 38.1112268,
+    "lon": 13.3524434,
+    "link": "https://en.wikivoyage.org/wiki/Palermo"
+  },
+  "Paris": {
+    "lat": 48.8534951,
+    "lon": 2.3483915,
+    "link": "https://en.wikivoyage.org/wiki/Paris"
+  },
+  "Perm": {
+    "lat": 58.0108531,
+    "lon": 56.2318528,
+    "link": "https://en.wikivoyage.org/wiki/Perm"
+  },
+  "Podgorica": {
+    "lat": 42.4415238,
+    "lon": 19.2621081,
+    "link": "https://en.wikivoyage.org/wiki/Podgorica"
+  },
+  "Poznań": {
+    "lat": 52.4082663,
+    "lon": 16.9335199,
+    "link": "https://en.wikivoyage.org/wiki/Poznań"
+  },
+  "Prague": {
+    "lat": 50.0874654,
+    "lon": 14.4212535,
+    "link": "https://en.wikivoyage.org/wiki/Prague"
+  },
+  "Pristina": {
+    "lat": 42.6638771,
+    "lon": 21.1640849,
+    "link": "https://en.wikivoyage.org/wiki/Pristina"
+  },
+  "Reykjavík": {
+    "lat": 64.145981,
+    "lon": -21.9422367,
+    "link": "https://en.wikivoyage.org/wiki/Reykjavík"
+  },
+  "Riga": {
+    "lat": 56.9493977,
+    "lon": 24.1051846,
+    "link": "https://en.wikivoyage.org/wiki/Riga"
+  },
+  "Rome": {
+    "lat": 41.8933203,
+    "lon": 12.4829321,
+    "link": "https://en.wikivoyage.org/wiki/Rome"
+  },
+  "Rostov-on-Don": {
+    "lat": 47.2610441,
+    "lon": 39.7249086,
+    "link": "https://en.wikivoyage.org/wiki/Rostov-on-Don"
+  },
+  "Rotterdam": {
+    "lat": 51.9244424,
+    "lon": 4.47775,
+    "link": "https://en.wikivoyage.org/wiki/Rotterdam"
+  },
+  "Ryazan": {
+    "lat": 54.6295687,
+    "lon": 39.7425039,
+    "link": "https://en.wikivoyage.org/wiki/Ryazan"
+  },
+  "Saint Helier": {
+    "lat": 49.1856637,
+    "lon": -2.1102277,
+    "link": "https://en.wikivoyage.org/wiki/Saint_Helier"
+  },
+  "Saint Petersburg": {
+    "lat": 59.9606739,
+    "lon": 30.1586551,
+    "link": "https://en.wikivoyage.org/wiki/Saint_Petersburg"
+  },
+  "Samara": {
+    "lat": 53.1956255,
+    "lon": 50.1014927,
+    "link": "https://en.wikivoyage.org/wiki/Samara"
+  },
+  "San Marino": {
+    "lat": 43.9458623,
+    "lon": 12.458306,
+    "link": "https://en.wikivoyage.org/wiki/San_Marino"
+  },
+  "Sarajevo": {
+    "lat": 43.8570713,
+    "lon": 18.4126147,
+    "link": "https://en.wikivoyage.org/wiki/Sarajevo"
+  },
+  "Saratov": {
+    "lat": 51.530018,
+    "lon": 46.034683,
+    "link": "https://en.wikivoyage.org/wiki/Saratov"
+  },
+  "Seville": {
+    "lat": 37.3886303,
+    "lon": -5.9953403,
+    "link": "https://en.wikivoyage.org/wiki/Seville"
+  },
+  "Sheffield": {
+    "lat": 53.3806626,
+    "lon": -1.4702278,
+    "link": "https://en.wikivoyage.org/wiki/Sheffield"
+  },
+  "Shymkent": {
+    "lat": 42.3146962,
+    "lon": 69.5883282,
+    "link": "https://en.wikivoyage.org/wiki/Shymkent"
+  },
+  "Skopje": {
+    "lat": 41.9962164,
+    "lon": 21.4318935,
+    "link": "https://en.wikivoyage.org/wiki/Skopje"
+  },
+  "Sofia": {
+    "lat": 42.6977028,
+    "lon": 23.3217359,
+    "link": "https://en.wikivoyage.org/wiki/Sofia"
+  },
+  "Stockholm": {
+    "lat": 59.3251172,
+    "lon": 18.0710935,
+    "link": "https://en.wikivoyage.org/wiki/Stockholm"
+  },
+  "Stuttgart": {
+    "lat": 48.7784485,
+    "lon": 9.1800132,
+    "link": "https://en.wikivoyage.org/wiki/Stuttgart"
+  },
+  "Sukhumi": {
+    "lat": 43.003134,
+    "lon": 41.0196614,
+    "link": "https://en.wikivoyage.org/wiki/Sukhumi"
+  },
+  "Tallinn": {
+    "lat": 59.437242,
+    "lon": 24.7572693,
+    "link": "https://en.wikivoyage.org/wiki/Tallinn"
+  },
+  "Tbilisi": {
+    "lat": 41.6934591,
+    "lon": 44.8014495,
+    "link": "https://en.wikivoyage.org/wiki/Tbilisi"
+  },
+  "The Hague": {
+    "lat": 52.0799838,
+    "lon": 4.3113461,
+    "link": "https://en.wikivoyage.org/wiki/The_Hague"
+  },
+  "Tirana": {
+    "lat": 41.3281482,
+    "lon": 19.8184435,
+    "link": "https://en.wikivoyage.org/wiki/Tirana"
+  },
+  "Tolyatti": {
+    "lat": 53.5098845,
+    "lon": 49.4189187,
+    "link": "https://en.wikivoyage.org/wiki/Tolyatti"
+  },
+  "Tomsk": {
+    "lat": 56.488611111,
+    "lon": 84.952222222,
+    "link": "https://en.wikivoyage.org/wiki/Tomsk"
+  },
+  "Toulouse": {
+    "lat": 43.6044638,
+    "lon": 1.4442433,
+    "link": "https://en.wikivoyage.org/wiki/Toulouse"
+  },
+  "Turin": {
+    "lat": 45.0677551,
+    "lon": 7.6824892,
+    "link": "https://en.wikivoyage.org/wiki/Turin"
+  },
+  "Tyumen": {
+    "lat": 57.153534,
+    "lon": 65.542274,
+    "link": "https://en.wikivoyage.org/wiki/Tyumen"
+  },
+  "Ufa": {
+    "lat": 54.7261409,
+    "lon": 55.947499,
+    "link": "https://en.wikivoyage.org/wiki/Ufa"
+  },
+  "Ulyanovsk": {
+    "lat": 54.3150278,
+    "lon": 48.403373,
+    "link": "https://en.wikivoyage.org/wiki/Ulyanovsk"
+  },
+  "Vaduz": {
+    "lat": 47.1392862,
+    "lon": 9.5227962,
+    "link": "https://en.wikivoyage.org/wiki/Vaduz"
+  },
+  "Valencia": {
+    "lat": 39.4697065,
+    "lon": -0.3763353,
+    "link": "https://en.wikivoyage.org/wiki/Valencia"
+  },
+  "Valletta": {
+    "lat": 35.8989979,
+    "lon": 14.5136607,
+    "link": "https://en.wikivoyage.org/wiki/Valletta"
+  },
+  "Vienna": {
+    "lat": 48.2083537,
+    "lon": 16.3725042,
+    "link": "https://en.wikivoyage.org/wiki/Vienna"
+  },
+  "Vilnius": {
+    "lat": 54.6870458,
+    "lon": 25.2829111,
+    "link": "https://en.wikivoyage.org/wiki/Vilnius"
+  },
+  "Vladivostok": {
+    "lat": 43.1150678,
+    "lon": 131.8855768,
+    "link": "https://en.wikivoyage.org/wiki/Vladivostok"
+  },
+  "Volgograd": {
+    "lat": 48.7081906,
+    "lon": 44.5153353,
+    "link": "https://en.wikivoyage.org/wiki/Volgograd"
+  },
+  "Voronezh": {
+    "lat": 51.6605982,
+    "lon": 39.2005858,
+    "link": "https://en.wikivoyage.org/wiki/Voronezh"
+  },
+  "Warsaw": {
+    "lat": 52.2319581,
+    "lon": 21.0067249,
+    "link": "https://en.wikivoyage.org/wiki/Warsaw"
+  },
+  "Wrocław": {
+    "lat": 51.1089776,
+    "lon": 17.0326689,
+    "link": "https://en.wikivoyage.org/wiki/Wrocław"
+  },
+  "Yaroslavl": {
+    "lat": 57.6263877,
+    "lon": 39.8933705,
+    "link": "https://en.wikivoyage.org/wiki/Yaroslavl"
+  },
+  "Yekaterinburg": {
+    "lat": 56.8382071,
+    "lon": 60.6007886,
+    "link": "https://en.wikivoyage.org/wiki/Yekaterinburg"
+  },
+  "Zagreb": {
+    "lat": 45.8130967,
+    "lon": 15.9772795,
+    "link": "https://en.wikivoyage.org/wiki/Zagreb"
+  },
+  "Zaporizhzhia": {
+    "lat": 47.8507859,
+    "lon": 35.1182867,
+    "link": "https://en.wikivoyage.org/wiki/Zaporizhzhia"
+  },
+  "Łódź": {
+    "lat": 51.7728245,
+    "lon": 19.4784857,
+    "link": "https://en.wikivoyage.org/wiki/Łódź"
+  }
+}
