@@ -60,6 +60,8 @@ An interactive Streamlit app is available in `demo/` with the following pages:
 
 ### Running the demo
 
+Download the KCOG-BERT model from the [Kaggle dataset](https://www.kaggle.com/datasets/mattiaingrassia/bert-trained-on-wikivoyage/data) and place it in a newly created `models/` directory at the repository root.
+
 ```bash
 # Install dependencies
 pip install -r requirements.txt
